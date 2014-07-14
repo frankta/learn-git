@@ -19,7 +19,7 @@ defined('_JEXEC') or die;
 class Paginator
 {
 /**
- * Total elements that will be paginated _total_items to
+ * Total elements that will be paginated _total_items total
  *
  * @var int
  */
